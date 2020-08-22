@@ -8,7 +8,7 @@ Description: Simple Database Authentication Architecture.
 
 ---
 # Auth-Database
-PHP + SQL Login Database
+![Login Look/Feel] (Auth.png)
 
 ### Create the Database Table First
 ```
